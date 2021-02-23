@@ -1,17 +1,26 @@
-# **Assignment Title**  
+# **Remove Evens**  
 
 ## **Assignment Description**  
-
+Create a function called removeEvens() that removes all even numbers from a given list k.
 
 ## **Examples**  
->
+>removeEvens([1,2,3,4,5,6,7,8])  
+[1, 3, 5, 7]  
+
+>removeEvens([0,2,2,2,2,2,2,2,2,2,2,0])  
+[0, 0]
 
 ## **Limitations**  
+1 function  
+1 list  
+1 for loop  
+1 if statement  
 
 ## **Hints**  
+k.pop(0) removes the first value of the list k  
 
 ## **Concepts**  
-
+Unit 1, Unit 2, Unit 3, list modification  
 ---
 
 ## **How to complete this assignment**
